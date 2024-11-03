@@ -37,6 +37,3 @@ This repository contains a **Power BI Dashboard** developed for XYZ Grocery, des
 - **Power BI** for data visualization and dashboard design.
 - **Data Sources**: Simulated data on sales, inventory, and customer demographics.
 
-## License
-
-This project is open-source under the MIT License.
