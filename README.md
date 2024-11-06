@@ -52,6 +52,9 @@ Through this project, I gained hands-on experience in Power BI, including:
 - Learning to use DAX for data calculations and analysis
 - Improving my skills in data storytelling and presentation
 
+Screenshots:-
+  ![Finance Tracker Dashboard Screenshot](https://github.com/Rakeek/PowerBI-Dashboards/blob/main/Blinkit%20Dashboards.png)
+  
 ____________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## 2. XYZ Grocery Dashboard
@@ -91,4 +94,9 @@ This repository contains a **Power BI Dashboard** developed for XYZ Grocery, des
 
 - **Power BI** for data visualization and dashboard design.
 - **Data Sources**: Simulated data on sales, inventory, and customer demographics.
+
+
+Screenshots:-
+  ![Finance Tracker Dashboard Screenshot](https://github.com/Rakeek/PowerBI-Dashboards/blob/main/XYZ%20Sales%20Dashboard.png).
+  ![Finance Tracker Dashboard Screenshot](https://github.com/Rakeek/PowerBI-Dashboards/blob/main/XYZ%20Region.png)
 
